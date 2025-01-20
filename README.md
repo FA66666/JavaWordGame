@@ -1,2 +1,2 @@
-# JavaSE-
-JavaSE单词记忆程序
+# JavaWordGame
+Java单词记忆程序
